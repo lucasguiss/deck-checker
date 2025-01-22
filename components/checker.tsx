@@ -6,7 +6,7 @@ import { CheckedState } from "@radix-ui/react-checkbox"
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { useState } from "react";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/card";
+import { Card, CardContent } from "./ui/card";
 
 type CardMap = { [key: string]: number };
 
